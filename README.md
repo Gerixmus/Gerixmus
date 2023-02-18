@@ -10,3 +10,5 @@ I'm programming enthusiast from Poland. Currently studying Electronics-ICT in Be
 * C#
 * SQL
 * UML
+* HTML
+* CSS
